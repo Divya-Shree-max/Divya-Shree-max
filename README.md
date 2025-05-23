@@ -1,7 +1,7 @@
 [![MasterHead](Banner.png)](https://DivyaShree-75.io)
 <h1 align="center">Hi 👋, I'm Divya Shree S A</h1>
 <h3 align="center">A passionate Computer Science student from India with a focus on frontend development, backend development and machine learning</h3>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmswOHM4NXVuam5wNW1zbmYwaTZrc3NqdmlqYnB5YXhvdmtpMjgxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
+<img align="right" alt="coding" width="400" src="coding.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyashree-75&label=Profile%20views&color=0e75b6&style=flat" alt="divyashree-75" /> </p>
 
